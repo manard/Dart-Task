@@ -4,5 +4,19 @@ The system allows users to manage a collection of books, search for books by ISB
 This simple system demonstrates core programming concepts like classes, methods, loops, and conditionals in Dart.
 
 Features
+
 1-Add new books to the library.
 ![image](https://github.com/user-attachments/assets/cec38baa-7293-43d9-b725-a41c7e23b68b)
+
+2-List all books in the library.
+![image](https://github.com/user-attachments/assets/754c66db-23de-4a8e-97f5-42e69d645486)
+
+3-Search for books by ISBN.
+![image](https://github.com/user-attachments/assets/66443f95-0afb-4aad-9df2-71ed15b58306)
+
+4- Remove a book from the library
+![image](https://github.com/user-attachments/assets/c79983c2-8565-4980-a7ab-c0f1f4dfaca6)
+
+
+
+
